@@ -3,7 +3,7 @@
 git pull
 
 #rsync -avz   /home/evan/english/韩宇极简英语/learn.note.org   learn.note.org
-\cp ~/data/english/englishpod/englishpod.org . 
+#\cp ~/data/english/englishpod/englishpod.org . 
 #\cp ~/data/english/ESLPOD/jeff.org .
 #33.添加和推上去
 git add .  #添加当前目录下的所有文件和子目录
