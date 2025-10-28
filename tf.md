@@ -107,7 +107,7 @@ provider "aws" {
 }
 
 resource "aws_instance" "demo" {
-  ami           = "ami-0c55b159cbfafe1f0"
+  ami           = "ami-01c94064639c71719"
   instance_type = var.instance_type
 }
 ```
